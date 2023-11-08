@@ -1,6 +1,6 @@
 # Personal-Finance-Management
 Personal Finance Management System
-Welcome to the world of Personal Financial Management System (PFMS) built with PHP and hosted on GitHub. Managing your personal finances is an essential aspect of achieving financial stability and realizing your long-term financial goals. This project, available on GitHub, provides a powerful, open-source solution for individuals looking to take control of their financial well-being.
+Welcome to the world of Personal Financial Management System (PFMS) built with PHP. Managing your personal finances is an essential aspect of achieving financial stability and realizing your long-term financial goals. This project, available on GitHub, provides a powerful, open-source solution for individuals looking to take control of their financial well-being.
 
 ![1](https://github.com/MrTineth/Personal-Finance-Management/assets/106744622/151c4aa8-b46f-4620-9692-48b1f370f635)
 
